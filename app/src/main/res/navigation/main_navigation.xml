@@ -55,7 +55,7 @@
 
     <fragment
         android:id="@+id/fivefragment"
-        android:name="com.geovane.navigationcomponent.fivefragment"
+        android:name="com.geovane.navigationcomponent.FiveFragment"
         android:label="fragment_fivefragment"
         tools:layout="@layout/fragment_fivefragment" >
         <action
